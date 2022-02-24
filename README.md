@@ -20,7 +20,7 @@ Penjelasan tiap feature/variabel dari Jurnal bisa Anda akses di  https://www.sci
 
 Apabila ingin mengetahui keterangan di setiap kolom, Anda bisa akses ke: https://www.kaggle.com/jessemostipak/hotel-booking-demand/data. 
 
-__Batasan Data
+## **Batasan Data**
 * __Ukuran data__ yang digunakan adalah **5000 baris (_rows_) awal [:5000]**.
 * __Variabel__ yang dipakai berjumlah 16 kolom, yaitu: 
 ['hotel', 'is_canceled', 'adults', 'children', 'babies', 'meal', 'country', 'market_segment', 'distribution_channel', 'reserved_room_type', 'booking_changes', 'deposit_type', 'days_in_waiting_list','customer_type', 'required_car_parking_spaces', 'total_of_special_requests']
