@@ -1,4 +1,4 @@
-# Hotel-Booking-Cancelation-
+# Hotel-Booking-Cancelation
 Hotel erat sekali dengan kegiatan pemesanan, hampir semua orang yang memiliki rencana untuk menginap atau menyewa suatu kamar hotel, akan melakukan pemesanan terlebih dahulu. 
 Tujuan dari pemesanan tersebut sangat beragam, baik untuk mencegah kehabisan kamar hotel hingga mendapatkan harga terbaik.
 
